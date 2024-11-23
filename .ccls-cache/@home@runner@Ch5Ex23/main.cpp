@@ -1,3 +1,18 @@
-#include <iostream>
+/* File Name:
 
-int main() { std::cout << "Hello World!\n"; }
+
+
+*/
+
+
+#include <iostream>
+using namespace std;
+
+void PatternA();
+void PatternB();
+
+
+int main(){
+
+  
+}
